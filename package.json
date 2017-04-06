@@ -1,0 +1,17 @@
+{
+    "buildNpmdoc":"clear",
+    "devDependencies": {
+        "clear": "*",
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "name":"npmdoc-clear",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmdoc/node-npmdoc-clear"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh"
+    },
+    "version": "0.0.1"
+}
