@@ -1,6 +1,6 @@
 # npmdoc-clear
 
-#### api documentation for  [clear (v0.0.1)](https://github.com/bahamas10/node-clear#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-clear.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-clear) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-clear.svg)](https://travis-ci.org/npmdoc/node-npmdoc-clear)
+#### basic api documentation for  [clear (v0.0.1)](https://github.com/bahamas10/node-clear#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-clear.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-clear) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-clear.svg)](https://travis-ci.org/npmdoc/node-npmdoc-clear)
 
 #### Clear the terminal screen if possible
 
